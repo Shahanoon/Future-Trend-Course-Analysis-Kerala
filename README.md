@@ -3,6 +3,10 @@
 ## 📊 Project Overview
 This project analyzes trends in courses offered by colleges in Kerala using publicly collected data. The goal is to identify popular courses, assess college ratings, and present insights through an interactive Power BI dashboard and automated Python analysis.
 
+## 🛠️ Tools Used
+* **Python**: For data cleaning and analysis.
+* **Power BI**: For visualization and dashboards.
+
 ## 🚀 Project Phases
 - **Phase 1: Data Collection:** Captured 100 colleges across Kerala, verifying data via NAAC portals and government databases.
 - **Phase 2: Data Cleaning:** Standardized datasets using Pandas and Excel to ensure high-quality, reliable analysis.
@@ -28,4 +32,5 @@ College_Analysis_Project/
 ├── data/                # Raw dataset
 ├── images/              # Auto-generated analytical plots
 ├── analysis.ipynb       # Python analysis pipeline
+
 └── Power_BI_Dashboard.pdf # Interactive Dashboard Export
